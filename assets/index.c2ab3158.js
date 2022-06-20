@@ -1,2 +1,1 @@
-import{Y as t,Z as s,ay as a}from"./index.953a039b.js";const u={setup(){const e=t(),r=s();e.replace(r.fullPath.replace(/^\/redirect/,""))},render(){return a("div")}};export{u as default};
-//# sourceMappingURL=index.c2ab3158.js.map
+import{Y as e,Z as a,ay as r}from"./index.953a039b.js";const s={setup(){const r=e(),s=a();r.replace(s.fullPath.replace(/^\/redirect/,""))},render:()=>r("div")};export{s as default};
